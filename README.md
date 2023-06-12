@@ -1,4 +1,4 @@
-# Teste para Entrada no Dell IT Academy
+# Processo Seletivo It Academy
 
 Este repositório contém o código desenvolvido como parte do teste de entrada para o Dell IT Academy. O objetivo deste teste é avaliar as habilidades e conhecimentos técnicos do candidato em relação à programação em Python e resolução de problemas computacionais.
 
